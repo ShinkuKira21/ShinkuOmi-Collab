@@ -1,0 +1,16 @@
+{
+  "name": "shinkuomi-collab",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "echo Starting the development server && vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.2.6"
+  },
+  "devDependencies": {
+    "vite": "^2.5.4"
+  }
+}
